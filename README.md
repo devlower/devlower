@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/devlower">
-  <img align="center" height="180" width="290" src="https://github-readme-stats.vercel.app/api?username=devlower&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img align="center" height="250" width="290" src="https://github-readme-stats.vercel.app/api?username=devlower&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img align="center" height="180" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlower&layout=compact&langs_count=7&theme=calm"/>
 </div>
 <div style="display: inline_block"><br>
