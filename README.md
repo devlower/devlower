@@ -30,9 +30,8 @@ Here are some ideas to get you started:
   <!--img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
   <img align="center" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg>
   <img align="center" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg>
-  <a target="_blank" href="https://icons8.com/icon/RVR8f45c6BXX/microsoft-power-automate-2020">Microsoft Power Automate 2020</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+  <img align="center" height="30" width="40" src=https://img.icons8.com/office/2x/microsoft-power-automate-2020.png>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src=file:///D:/Downloads/icons8-microsoft-power-automate-2020-40.svg>
   <!--img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
   <img align="right" alt="devlower" src="https://cdn.discordapp.com/attachments/876620877855326251/876624501943730246/devlower.gif">
 </div>
