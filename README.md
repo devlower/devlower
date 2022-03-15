@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/devlower">
-  <img align="left" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=devlower&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img align="left" height="180" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlower&layout=compact&langs_count=7&theme=calm"/>
+  <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=devlower&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlower&layout=compact&langs_count=7&theme=calm"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="bottom" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
   <!--img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"-->
   <!--img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
-  <img align="bottom" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg>
-  <img align="bottom" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg>
-  <img align="bottom" height="30" width="40" src=https://img.icons8.com/office/2x/microsoft-power-automate-2020.svg>
-  <img align="bottom" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/dart/dart-original.svg>
+  <img align="center" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg>
+  <img align="center" height="30" width="40" src=https://img.icons8.com/office/2x/microsoft-power-automate-2020.svg>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
   <img align="right" alt="devlower" src="https://cdn.discordapp.com/attachments/876620877855326251/876624501943730246/devlower.gif">
 </div>
