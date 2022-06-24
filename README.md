@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-original.svg>
   <img align="center" height="30" width="40" src=https://img.icons8.com/office/2x/microsoft-power-automate-2020.svg>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="icons8-kotlin-a-cross-platform,-statically-typed,-general-purpose-programming-language-with-type-inference](https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png">
+  <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">
   <!--img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"-->
   <img align="right" alt="devlower" src="https://cdn.discordapp.com/attachments/876620877855326251/876624501943730246/devlower.gif">
 </div>
