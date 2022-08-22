@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as an intern in RPA development using Microsoft Power Automate 
-- 🌱 Learning Python and Dart/Flutter
+- 🌱 Learning Python and Mobile development
 - 😄 Pronouns: she/her
 
 <div>
