@@ -29,37 +29,22 @@ Here are some ideas to get you started:
   - 😄 **Pronouns: she/her**
 
   </div>
-
+<div>
   <img alt="devlower" height="135" src="https://cdn.discordapp.com/attachments/876620877855326251/876624501943730246/devlower.gif">
+</div>
 </div>
 
 ## Technologies
 
 <div>
-<span title="C Language">
-  <img align="center" alt="Icon_C" height="30" src="./icons/c.svg">
-</spam>
-<spam title="Python">
-  <img align="center" alt="Icon_Python" height="30" src="./icons/python.svg">
-</spam>
-<spam title="Kotlin">
-  <img align="center" alt="Icon_HTML5" height="30" src="./icons/kotlin.svg">
-</spam>
-<spam title="HTML5">
-  <img align="center" alt="Icon_HTML5" height="30" src="./icons/html5.svg">
-</spam>
-<spam title="CSS3">
-  <img align="center" alt="Icon_CSS" height="30" src="./icons/css.svg">
-</spam>
-<spam>
-  <img align="center" alt="Icon_JavaScript" height="25" src="./icons/js.svg">
-</spam>
-<spam title="Ubuntu">
-  <img align="center" alt="Icon_Linux" height="30" src="./icons/ubuntu.svg">
-</spam>
-<spam title="MySQL">
-  <img align="center" alt="Icon_Linux" height="40" src="./icons/my_sql.svg">
-</spam>
+  <img align="center" title="C Language" alt="Icon_C" height="30" src="./icons/c.svg">
+  <img align="center" title="Python" alt="Icon_Python" height="30" src="./icons/python.svg">
+  <img align="center" title="Kotlin" alt="Icon_HTML5" height="30" src="./icons/kotlin.svg">
+  <img align="center" title="HTML5" alt="Icon_HTML5" height="30" src="./icons/html5.svg">
+  <img align="center" title="CSS3" alt="Icon_CSS" height="30" src="./icons/css.svg">
+  <img align="center" title="Javascript" alt="Icon_JavaScript" height="25" src="./icons/js.svg">
+  <img align="center" title="Ubuntu" alt="Icon_Linux" height="30" src="./icons/ubuntu.svg">
+  <img align="center" title="MySQL" alt="Icon_Linux" height="40" src="./icons/my_sql.svg">
 </div>
 
 <br>
@@ -117,7 +102,7 @@ Here are some ideas to get you started:
     - [Habits (NLW-Setup-Ignite)](https://github.com/devlower/nlw_setup)
 </details>
 
-<br><br>
+<br>
 
 <div style="text-align: center;">
   <div style="display: inline_block; align-items: center;">
