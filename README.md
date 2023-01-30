@@ -54,6 +54,8 @@ Here are some ideas to get you started:
   - C Language:
     - [Walls linear load calculator](https://github.com/devlower/LAED-II_ProjetoFinal)
     - [Math Quiz](https://github.com/devlower/math_quiz)
+  - Python:
+    - [Hash it!](https://github.com/devlower/hash_it)
   - Arduino:
     - [Binary counter](https://github.com/devlower/arduino/tree/main/binaryCounter)
     - [Potentiometer and buzzer](https://github.com/devlower/arduino/tree/main/potenciometroBuzzer)
@@ -66,6 +68,8 @@ Here are some ideas to get you started:
   - Kotlin:
     - [Vaaz MVP](https://github.com/devlower/vaaz_mvp)
     - [Media rental management](https://github.com/devlower/trabalho-LP-POO)
+  - SQL:
+    - [Building materials store database](https://github.com/devlower/sql_building_materials)
 
     </details>
 
