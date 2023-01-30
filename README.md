@@ -13,26 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-F0997D?=flat-circle&labelColor=black&logo=linkedin&logoColor=F0997D&link=https://www.linkedin.com/in/tuanne-assenco-cc/)](https://www.linkedin.com/in/tuanne-assenco-cc/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-F0997D?=flat-circle&labelColor=black&logo=linkedin&logoColor=F0997D&link=https://www.linkedin.com/in/tuanne-assenco-cc/)](https://www.linkedin.com/in/tuanne-assenco-cc/) 
 [![Behance Badge](https://img.shields.io/badge/-Behance-F0997D?=flat-circle&labelColor=black&logo=behance&logoColor=F0997D&link=https://www.behance.net/tuanne-assenco/)](https://www.behance.net/tuanne-assenco/)
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
+## Greetings and Welcome to my Profile! 👋🏻
 
-  ## Greetings and Welcome to my Profile! 👋🏻
+<img align="right" alt="devlower" height="135" width="135" src="https://cdn.discordapp.com/attachments/876620877855326251/876624501943730246/devlower.gif">
 
-  - 💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/)
-  - 🌱 **Learning Web/Mobile development**
-  -  🌟 **Aspirations:**
-      - 🐍 Python development
-      - 🔐 Cyber security
-  - 😄 **Pronouns: she/her**
+- 💻 **Computer Science Student [6/8]** - [_PUC Minas_](https://www.pucpcaldas.br/) 
+- 🌱 **Learning Web/Mobile development**
+-  🌟 **Aspirations:**
+    - 🐍 Python development
+    - 🔐 Cyber security
+- 😄 **Pronouns: she/her**
 
-  </div>
-<div>
-  <img alt="devlower" height="135" src="https://cdn.discordapp.com/attachments/876620877855326251/876624501943730246/devlower.gif">
-</div>
-</div>
+
 
 ## Technologies
 
@@ -104,17 +99,4 @@ Here are some ideas to get you started:
 
 <br>
 
-<div style="text-align: center;">
-  <div style="display: inline_block; align-items: center;">
-    <a href="https://github.com/devlower">
-    <img style="margin-right: 16px" height="180" src="https://github-readme-stats.vercel.app/api?username=devlower&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-    <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlower&layout=compact&langs_count=7&theme=calm"/>
-  </div>
-</div>
-
-  
-  ##
-  
-<div> 
-
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=devlower&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/> &emsp; <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlower&layout=compact&langs_count=7&theme=calm"/>
