@@ -39,7 +39,9 @@ Here are some ideas to get you started:
   <img align="center" title="CSS3" alt="Icon_CSS" height="30" src="./icons/css.svg">
   <img align="center" title="Javascript" alt="Icon_JavaScript" height="25" src="./icons/js.svg">
   <img align="center" title="Ubuntu" alt="Icon_Linux" height="30" src="./icons/ubuntu.svg">
-  <img align="center" title="MySQL" alt="Icon_Linux" height="40" src="./icons/my_sql.svg">
+  <img align="center" title="Git" alt="Icon_Git" height="30" src="./icons/git.svg">
+  <img align="center" title="Figma" alt="Icon_Figma" height="30" src="./icons/figma.svg">
+  <img align="center" title="MySQL" alt="Icon_Sql" height="40" src="./icons/my_sql.svg">
 </div>
 
 <br>
@@ -52,9 +54,11 @@ Here are some ideas to get you started:
 </summary>
 
   - C Language:
+    - [Operational System | Pipes - Thread](https://github.com/devlower/os_pipes_rpg)
     - [Walls linear load calculator](https://github.com/devlower/LAED-II_ProjetoFinal)
     - [Math Quiz](https://github.com/devlower/math_quiz)
   - Python:
+    - [Information extraction android](https://github.com/devlower/informationExtractionAndroid)
     - [Hash it!](https://github.com/devlower/hash_it)
   - Arduino:
     - [Binary counter](https://github.com/devlower/arduino/tree/main/binaryCounter)
