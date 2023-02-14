@@ -98,11 +98,13 @@ Here are some ideas to get you started:
   - Pokédex - Soon
 - React-Native:
   - [Habits (NLW-Setup-Ignite)](https://github.com/devlower/nlw_setup/tree/main/mobile)
-- **Web:**
+- Web:
   - HTML5 | CSS3 | Javascript
     - [Habits (NLW-Setup-Explorer)](https://github.com/devlower/nlw_setup)
   - Typescript | React | Node.js
     - [Habits (NLW-Setup-Ignite)](https://github.com/devlower/nlw_setup)
+- Python:
+  - [Python library for information extraction of files](https://github.com/devlower/fileInfoExtraction) - on progress
 </details>
 
 <br>
